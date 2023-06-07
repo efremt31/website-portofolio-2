@@ -1,0 +1,241 @@
+body {
+    background-color: rgb(228, 235, 235);
+}
+
+.top-container {
+    display: flex; 
+   flex-direction: column;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(https://www.thedreamafrica.com/wp-content/uploads/2019/08/Read-sea-Eritrea.png);
+    background-size:cover;
+    justify-content: space-between;
+    height: 800px; 
+    
+   
+}
+
+h1 {
+    opacity: 1;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+    padding: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+   
+   
+}
+
+.video {
+   margin: auto;
+   width: 730px;
+}
+
+.reelin-container {
+    text-align: center;
+    color: rgb(233, 237, 244);
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    background-color:rgb(208, 210, 211)
+    
+}
+
+.todo {
+    background-image: url(https://i.guim.co.uk/img/media/e660b13d9d83b88b71746684a30ab9a930b60982/381_31_1817_1090/master/1817.jpg?width=1140&quality=45&dpr=2&s=none);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 450px;
+    text-shadow:0.09em 0 black,
+    0 0.09em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    border: solid 10px; 
+    border-color: rgb(249, 247, 247);
+    
+  
+}
+
+.people {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirczytwJQaDgL2CQkve4mYudnLK4cCVdwlw&usqp=CAU);
+    background-size: cover;
+    height: 300px;
+    width: 450px;
+    text-shadow:0.09em 0 black,
+    0 0.09em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    border: solid 10px; 
+    border-color: rgb(249, 247, 247);
+    
+}
+
+.food {
+    background-image: url(https://napita.co/wp-content/uploads/2020/02/Zeret-Kitchen.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 450px;
+    text-shadow:0.09em 0 black,
+    0 0.09em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    border: solid 10px; 
+    border-color: rgb(249, 247, 247);
+    
+
+}
+
+section {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+.book {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+
+}
+
+strong {
+    font-size: 30px;
+}
+
+img {
+    width: 600px;
+    border: 10px solid white;
+}
+
+.et-hero-tabs-container {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    color: black;
+    background-color: aliceblue;
+    border: solid 10px white;
+
+
+    
+}
+
+
+    
+    
+
+
+
+
+    
+
+a:link {
+    text-decoration: none;
+
+}
+
+a {
+    text-decoration:double;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    
+    
+
+}
+
+button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container-fluid
+{
+    width: 400px;
+    margin: 60px auto;
+    padding: 10px;
+}
+.inputs 
+{
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    background: white;
+}
+.inputs input[type="text"] 
+{
+    height: 4rem;
+    width: 20rem;
+    background: #212121;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border: 2px solid #c2c2c2;
+    border-radius: 2px;
+    margin-right:4px ;
+}
+.inputs input[type="submit"] 
+{
+    height: 3rem;
+    width: 6rem;
+    background: #0a67ca;
+    font-weight: bold;
+    color: white;
+    font-size: 1rem;
+    margin-top: 20px;
+    border: none;
+    border-radius: 2px;
+}
+.display 
+{
+    text-align: center;
+    width: 400px;
+    color: #16a864;
+}
+.wrapper 
+{
+    margin: 0 9rem;
+    background-color: white;
+    height: 45vh;
+    margin: 50px auto;
+    border-radius: 2px;
+}
+
+.wrapper h2
+{
+    padding: 5px 0;
+    text-align: center;
+    background: #0548b5;
+    color: white;
+    font-family: sans-serif;
+}
+.wrapper p
+{
+    margin:20px 50px;
+    margin-right: 20px;
+    text-align: left;
+    color: #04214c;
+    font-size:23px;
+}
+.wrapper h2 span
+{
+    font-size: 26px;
+    color: #9beefb;
+}
+.wrapper p span
+{
+    color: #f4780d;
+    font-size: 25px;
+}
+
